@@ -25,14 +25,12 @@ img {
   border-top: 3px solid #005e76;
   color: #005e76;
   flex-wrap: wrap;
-  padding: 1.5rem 0;
   align-items: center;
 }
 
-.social >li {
+.social > li {
   width: 3em;
   margin: 0 .5em;
-
 }
 
 .copyright {
